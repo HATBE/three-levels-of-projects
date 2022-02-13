@@ -12,10 +12,10 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - Static website
     - Personal Website
     - Website for Local Business (Real or Create a Fake Business)
-- Digital Clock
+- ~Digital Clock~
 - Todo App
 - Expense Tracker
-- Vowel Counter
+- ~Vowel Counter~
 - Pig Latin Generator
 - Weight Tracker App
 - Recipes App
